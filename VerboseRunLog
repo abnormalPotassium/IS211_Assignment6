@@ -1,0 +1,62 @@
+PS D:\Coding Projects> & "C:/Users/Taha Ahmad/AppData/Local/Programs/Python/Python37/python.exe" "d:/Coding Projects/IS211_Assignment6/tests.py" --v
+test_ceiling_input (__main__.CelsiusToFahrenheitTestCase)
+convertCelsiusToFahrenheit should pass extremely large numbers ... ok
+test_correct_conversion (__main__.CelsiusToFahrenheitTestCase)
+convertCelsiusToFahrenheit should pass with correct conversions ... ok
+test_floor_input (__main__.CelsiusToFahrenheitTestCase)
+convertCelsiusToFahrenheit should fail values below absolute zero ... ok
+test_incorrect_conversion (__main__.CelsiusToFahrenheitTestCase)
+convertCelsiusToFahrenheit should not create incorrect conversions ... ok
+test_type_input (__main__.CelsiusToFahrenheitTestCase)
+convertCelsiusToFahrenheitFails should fail non-float convertible inputs ... ok
+test_ceiling_input (__main__.CelsiusToKelvinTestCase)
+convertCelsiusToKelvin should pass extremely large numbers ... ok
+test_correct_conversion (__main__.CelsiusToKelvinTestCase)
+convertCelsiusToKelvin should pass with correct conversions ... ok
+test_floor_input (__main__.CelsiusToKelvinTestCase)
+convertCelsiusToKelvin should fail values below absolute zero ... ok
+test_incorrect_conversion (__main__.CelsiusToKelvinTestCase)
+convertCelsiusToKelvin should not create incorrect conversions ... ok
+test_type_input (__main__.CelsiusToKelvinTestCase)
+convertCelsiusToKelvinFails should fail non-float convertible inputs ... ok
+test_ceiling_input (__main__.FahrenheitToCelsiusTestCase)
+convertFahrenheitToCelsius should pass extremely large numbers ... ok
+test_correct_conversion (__main__.FahrenheitToCelsiusTestCase)
+convertFahrenheitToCelsius should pass with correct conversions ... ok
+test_floor_input (__main__.FahrenheitToCelsiusTestCase)
+convertFahrenheitToCelsius should fail values below absolute zero ... ok
+test_incorrect_conversion (__main__.FahrenheitToCelsiusTestCase)
+convertFahrenheitToCelsius should not create incorrect conversions ... ok
+test_type_input (__main__.FahrenheitToCelsiusTestCase)
+convertFahrenheitToCelsiusFails should fail non-float convertible inputs ... ok
+test_ceiling_input (__main__.FahrenheitToKelvinTestCase)
+convertFahrenheitToKelvin should pass extremely large numbers ... ok
+test_correct_conversion (__main__.FahrenheitToKelvinTestCase)
+convertFahrenheitToKelvin should pass with correct conversions ... ok
+test_floor_input (__main__.FahrenheitToKelvinTestCase)
+convertFahrenheitToKelvin should fail values below absolute zero ... ok
+test_incorrect_conversion (__main__.FahrenheitToKelvinTestCase)
+convertFahrenheitToKelvin should not create incorrect conversions ... ok
+test_type_input (__main__.FahrenheitToKelvinTestCase)
+convertFahrenheitToKelvinFails should fail non-float convertible inputs ... ok
+test_ceiling_input (__main__.KelvinToCelsiusTestCase)
+convertKelvinToCelsius should pass extremely large numbers ... ok
+test_correct_conversion (__main__.KelvinToCelsiusTestCase)
+convertKelvinToCelsius should pass with correct conversions ... ok
+test_floor_input (__main__.KelvinToCelsiusTestCase)
+convertKelvinToCelsius should fail values below absolute zero ... ok
+test_incorrect_conversion (__main__.KelvinToCelsiusTestCase)
+convertKelvinToCelsius should not create incorrect conversions ... ok
+test_type_input (__main__.KelvinToCelsiusTestCase)
+convertKelvinToCelsiusFails should fail non-float convertible inputs ... ok
+test_ceiling_input (__main__.KelvinToFahrenheitTestCase)
+'convert should pass with correct conversions for yards to miles ... ok
+test_incompatible_units (__main__.convertTestCase)
+conver should fail with incompatible units and raise an exception ... ok
+test_self_conversion (__main__.convertTestCase)
+convert should pass with correct self-conversions with all compatible units ... ok
+
+----------------------------------------------------------------------
+Ran 44 tests in 0.037s
+
+OK
